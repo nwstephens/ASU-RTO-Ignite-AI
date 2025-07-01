@@ -6,7 +6,7 @@ AI applications are built around technology designed to predict the next word. T
 
 ## Demo
 
-* [Demo: World-record accuracy and performance for complex route optimization](https://build.nvidia.com/nvidia/nvidia-cuopt)
+* [World-record accuracy and performance for complex route optimization](https://build.nvidia.com/nvidia/nvidia-cuopt)
 
 ## Blogs
 
