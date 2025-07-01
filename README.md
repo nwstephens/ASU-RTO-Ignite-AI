@@ -1,6 +1,6 @@
 # Using NVIDIA cuOpt for prescriptive optimization
 
-![image](3d-surface-plot.png)
+![image](hero.png)
 
 AI applications are built around technology designed to predict the next word. The focus of these apps is often on generating insights, with less attention paid to what happens next — decision making. That’s where NVIDIA cuOpt comes in. As an open-source prescriptive optimization engine, cuOpt takes AI outputs and determines the best course of action — whether it's rerouting a fleet, reassigning inventory, or rescheduling tasks. In essence,  cuOpt operationalizes AI — enabling organizations to go from prediction to intelligent, optimized decisions at scale.
 
